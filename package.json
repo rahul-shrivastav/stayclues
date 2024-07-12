@@ -1,0 +1,15 @@
+{
+  "name": "airbnb-clone",
+  "version": "1.0.0",
+  "description": "airbnb-clone with MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd backend && node server.js",
+    "start": "cd backend && node server.js",
+    "build": "cd backend && npm install && cd .. && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
