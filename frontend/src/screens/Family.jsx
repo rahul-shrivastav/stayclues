@@ -153,7 +153,7 @@ const Family = () => {
                 {
                     "Useful Contact Info": [
                         {
-                            "Useful Contact Info": [{ "Image": "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/contact-info.webp", }, { "Text": "Should you have any queries regarding your forthcoming stay, or during your stay please do contact us.<br><br><b>Telephone:</b> 01548 852723<br><br><b>Mobile</b> (James): <a href='tel:07968222008'>07968 222008</a><br><br><b>Mobile</b> (Tracey): <a href='tel:07950 182174'>07950 182174</a><br><br>If your query is during your stay you may also find us in reception, or just ring the doorbell as we are resident on site." }]
+                            "Useful Contact Info": [{ "Image": "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/contact-info.webp", }, { "Text": "Should you have any queries regarding your forthcoming stay, or during your stay please do contact us.<br><br><b>Telephone:</b> 01548 852723<br><br><b>Mobile</b> (James):07968 222008<br><br><b>Mobile</b> (Tracey):07950 182174<br><br>If your query is during your stay you may also find us in reception, or just ring the doorbell as we are resident on site." }]
                         },
 
                     ]
