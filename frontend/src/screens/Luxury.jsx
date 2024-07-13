@@ -35,9 +35,9 @@ const Luxury = () => {
                     ]
                 },
                 {
-                    "About the Treehouse": [
+                    "About the Camp": [
                         {
-                            "About the Treehouse": [{ "Image": "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/welcome-pic.jpeg", }, { "Text": "<b>Construction and Design:</b><p>Our property is a testament to sustainable living and craftsmanship. Inspired by the surrounding natural beauty, our treehouse is built using locally sourced materials and eco-friendly practices. The construction blends seamlessly with the forest environment, offering guests a serene and intimate connection with nature.</p> <br><b>Inspiration:</b><p>Our vision was born out of a deep love for the Himalayan foothills and a desire to create a retreat that harmonizes with its surroundings. The design of the treehouse reflects our commitment to preserving the environment while providing a comfortable and memorable stay for our guests.</p>" }]
+                            "About the Camp": [{ "Image": "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/welcome-pic.jpeg", }, { "Text": "<b>Construction and Design:</b><p>Our property is a testament to sustainable living and craftsmanship. Inspired by the surrounding natural beauty, our treehouse is built using locally sourced materials and eco-friendly practices. The construction blends seamlessly with the forest environment, offering guests a serene and intimate connection with nature.</p> <br><b>Inspiration:</b><p>Our vision was born out of a deep love for the Himalayan foothills and a desire to create a retreat that harmonizes with its surroundings. The design of the treehouse reflects our commitment to preserving the environment while providing a comfortable and memorable stay for our guests.</p>" }]
                         },
                     ]
                 },

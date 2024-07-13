@@ -12,7 +12,7 @@ const Adventure = () => {
             "categories": [
                 {
                     "Welcome": [{
-                        Welcome: [{ "Image": "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/bbnb.webp" }, { "Text": "<b>We are delighted that you have chosen Villa Kanya, in the heart of Phuket</b>.<br>Here at your fingertips in this guidebook is everything you should need to know about your stay with us. Fromcheck-in time, facilities on site, local beaches and great places to dine.<br><br><b>Print or Save a PDF</b><br><br>If you would like to print certain pages ahead of travelling, or if you'd like to save a PDF to your device,just tap the print button above. It won't print right away, but will create a PDF which you can save or print.<br>Should you run into any difficulties then there's a handy little help guide that the developers of this TouchStay software have prepared. You can read it by right clicking this link.<br>If you can not find the information you require in this guidebook please just let us know.<br><a href='mailto:info@interpropertyphuket.com'>Email Us</a><br>Phone: <a href='tel:0123456789'>0123456789</a><br><br>Have a blast at Villa Kanya. " }]
+                        Welcome: [{ "Image": "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/bbnb.webp" }, { "Text": "<b>We are delighted that you have chosen Villa Kanya, in the heart of Phuket</b>.<br>Here at your fingertips in this guidebook is everything you should need to know about your stay with us. Fromcheck-in time, facilities on site, local beaches and great places to dine.<br><br><b>Print or Save a PDF</b><br><br>If you would like to print certain pages ahead of travelling, or if you'd like to save a PDF to your device,just tap the print button above. It won't print right away, but will create a PDF which you can save or print.<br>Should you run into any difficulties then there's a handy little help guide that the developers of this Stayclues software have prepared. You can read it by right clicking this link.<br>If you can not find the information you require in this guidebook please just let us know.<br><a href='mailto:info@interpropertyphuket.com'>Email Us</a><br>Phone: <a href='tel:0123456789'>0123456789</a><br><br>Have a blast at Villa Kanya. " }]
                     }]
                 },
                 {
@@ -186,7 +186,7 @@ const Adventure = () => {
                 <div className='w-1/2 pl-10 '>
                     <h2 className='gunmetal text-2xl font-bold py-5'>Example guides to inspire</h2>
                     <h1 className='text-5xl font-bold py-5'>Looking to see what others have done?</h1>
-                    <p className='text-3xl py-5'>You've come to the perfect spot! Keep scrolling to discover some wonderful examples of guidebooks from actual Touch Stay users who have generously shared their guides with the world!</p>
+                    <p className='text-3xl py-5'>You've come to the perfect spot! Keep scrolling to discover some wonderful examples of guidebooks from actual Stayclues users who have generously shared their guides with the world!</p>
                 </div>
                 <div className='w-1/2 flex items-center justify-center'>
                     <img
