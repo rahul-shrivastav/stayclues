@@ -20,7 +20,7 @@ const GuideBook = () => {
     return (
         <div className='w-screen h-screen flex flex-col items-center justify-center'>
             <div className='w-screen h-screen absolute top-0 left-0'>
-                <img src={icategory === 'luxury' ? 'https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/welcome-pic.jpeg' : "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/f0ea4cba-c771-41b6-92c5-caa646edb513_20210615102940.jpg"} alt="" className='-z-10 w-full h-full object-cover brightness-50' />
+                <img src={icategory === 'luxury' ? 'https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/welcome-pic.jpeg' : "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/bbnb.webp"} alt="" className='-z-10 w-full h-full object-cover brightness-50' />
 
             </div>
             <div className='text-white text-3xl z-0 flex flex-col items-center justify-center relative -top-10'>
@@ -30,7 +30,7 @@ const GuideBook = () => {
                 {/* <div className='text-4xl font-bold my-7'>Villa Uma Dewi Sri</div>
                 <div className='text-2xl'>abcdhotel@hotmail.com</div> */}
                 <div className={'w-64 h-1  my-3 ' + colortheme}></div>
-                <div className='text-5xl font-bold my-10'>{icategory === 'luxury' ? "Tree House Jibhi" : "Kamala Beach Property digital concierge"}</div>
+                <div className='text-5xl font-bold my-10'>{icategory === 'luxury' ? "Tree House Jibhi" : "Villa Kanya"}</div>
                 <button onClick={reroute} className={'btn  w-60 text-white bg-transparent border-1 ' + btntheme}>Get Started</button>
             </div>
 
