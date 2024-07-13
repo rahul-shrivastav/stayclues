@@ -30,17 +30,17 @@ const Guide = () => {
     ]
     const imageList2 = ["https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/26.png",
         "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/25.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/27.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/aboutthehouse.png",
         "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/21.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/2.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/7.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/6.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/before-leaving-the-house.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/arrival.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/wifi.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/gettingaround.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/petpolicry.png",
         "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/11.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/9.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/6.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/11.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/27.png",
-        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/11.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/eatingout.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/localshoping.png",
+        "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/contact.png",
         "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/16.png"
     ]
     const { category, selectedGuide, setSelectedGuide } = useGuideContext()
