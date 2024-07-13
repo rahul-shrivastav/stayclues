@@ -16,16 +16,17 @@ import AddImage4 from "../../assets/img/decor/4.jpg";
 export default function FeaturesDetails() {
   return (
     <Wrapper id="projects">
-      <div className="container bg-gray-100 flex max-[600px]:flex-col justify-center border rounded-2xl gap-10 items-center">
+      <div className="w-11/12 m-auto bg-gray-100 flex max-[600px]:flex-col justify-center border rounded-2xl gap-10 items-center">
         <div className="py-10">  <ImgWrapper className="flexCenter max-w-2xl">
           <img className="radius8" src={AddImage3} alt="add" />
         </ImgWrapper></div>
         <div className="py-10">
-          <h2 className="font30 extraBold text-black">Get set up in minutes, not days</h2>
-          <p className="font20 text-black">Set up and maintain hassle-free digital guidebooks with StayClues <br /> - no downloads needed. Simply share the link for users to access information effortlessly.</p>
+          <h2 className="font30 extraBold text-black"> Need help setting up your Digital Concierge ? </h2>
+          <p className="font20 text-black">Shoot us a message and we’re here to help. You won’t talk to any bots, just humans who are passionate about getting your property the attention it deserves.
+          </p>
           <ButtonsRow className="flexNullCenter" style={{ margin: "30px 0" }}>
             <div style={{ width: "190px" }}>
-              <button className="bluebg text-white p-5 border rounded-full w-full">Get Started</button>
+              <button className="bluebg text-white p-5 border rounded-full w-full">Contact Us</button>
             </div>
           </ButtonsRow></div>
 

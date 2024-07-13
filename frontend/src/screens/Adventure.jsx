@@ -17,7 +17,7 @@ const Adventure = () => {
                 },
                 {
                     "About US": [{
-                        "About Interpropertyphuket": [{ "Image": "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/intr.jpeg" }, { "Text": "At Inter Property Phuket, our values are centered around integrity, excellence, client-centricity, innovation, collaboration, commitment to community, adaptability, and professionalism. <br>We are your premier choice for comprehensive villa management and property services on the beautiful island of Phuket, Thailand<br>Our vast network of properties, villas and resources can be used" }]
+                        "About Interpropertyphuket": [{ "Image": "https://awesomebrandingsolutions.com/wp-content/uploads/2024/07/intr.jpeg" }, { "Text": "At Inter Property Phuket, our values are centered around integrity, excellence, client-centricity, innovation, collaboration, commitment to community, adaptability, and professionalism. <br><br>We are your premier choice for comprehensive villa management and property services on the beautiful island of Phuket, Thailand <br><br><b>Our vast network of properties, villas and resources can be used </b>" }]
                     }]
                 },
 
@@ -182,23 +182,23 @@ const Adventure = () => {
     return (
         <>
             <TopNavbar />
-            <div className='flex mt-20 py-10 '>
-                <div className='w-1/2 pl-10 '>
-                    <h2 className='gunmetal text-2xl font-bold py-5'>Example guides to inspire</h2>
-                    <h1 className='text-5xl font-bold py-5'>Looking to see what others have done?</h1>
+            <div className='md:flex-row flex-col flex mt-20 py-10 '>
+                <div className='md:w-1/2 w-full pl-10 '>
+                    <h2 className='gunmetal text-4xl font-bold py-5'>Example guides to inspire</h2>
+                    <h1 className='md:text-5xl text-4xl font-bold py-5'>Looking to see what others have done?</h1>
                     <p className='text-3xl py-5'>You've come to the perfect spot! Keep scrolling to discover some wonderful examples of guidebooks from actual Stayclues users who have generously shared their guides with the world!</p>
                 </div>
-                <div className='w-1/2 flex items-center justify-center'>
+                <div className='md:w-1/2 w-full flex items-center justify-center'>
                     <img
                         src={h}
                         alt="Shoes"
                         className="rounded-xl" />
                 </div>
             </div>
-            <div className='text-center mt-20 p-10 text-7xl font-bold'>
+            <div className='text-center mt-20 p-10 text-5xl font-bold'>
                 Adventure Guides
             </div>
-            <div className='flex items-center justify-around flex-wrap '>
+            <div className='flex items-center justify-center gap-5 flex-wrap '>
                 <Democard img={l1} guideDesc={guideDesc1} />
                 <Democard img={l1} guideDesc={guideDesc1} />
 

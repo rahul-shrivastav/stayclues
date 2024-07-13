@@ -30,8 +30,7 @@ export default function Contact() {
         </div>
         <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
           <div className="lg:w-1/3 md:w-1/2 w-full px-4">
-            <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
-            <nav className="list-none mb-10">
+            <nav className="list-none mb-10 flex gap-5 flex-col">
               <li>
                 <Link className="text-white hover:text-gray-800" to={'/about'}>About Stayclues</Link>
               </li>
@@ -41,8 +40,7 @@ export default function Contact() {
             </nav>
           </div>
           <div className="lg:w-1/3 md:w-1/2 w-full px-4">
-            <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
-            <nav className="list-none mb-10">
+            <nav className="list-none mb-10 flex gap-5 flex-col">
               <li>
                 <a className="text-white hover:text-gray-800">Features</a>
               </li>
@@ -56,8 +54,7 @@ export default function Contact() {
             </nav>
           </div>
           <div className="lg:w-1/3 md:w-1/2 w-full px-4">
-            <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
-            <nav className="list-none mb-10">
+            <nav className="list-none mb-10 flex gap-5 flex-col items-center md:items-start">
               <li>
                 <a className="text-white hover:text-gray-800 flex
               items-center"><CiFacebook />Facebook</a>

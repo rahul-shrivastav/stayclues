@@ -32,10 +32,14 @@ export default function Introduction() {
             <span className="mx-2 gunmetal"><strike>Printed Booklets</strike> </span>
 
           </p>
+          <p className=" gunmetal mt-4 text-2xl flex items-center ">
+            <span className="mx-2 gunmetal">Share a QR code to your stunning<br /> Stay Clues Concierge guidebook.</span>
+
+          </p>
 
           <ButtonsRow className="flexNullCenter" style={{ margin: "30px 0" }}>
-            <div style={{ width: "190px" }}>
-              <button className="bluebg text-white  font-bold p-5 mt-5 border rounded-full w-full">Explore E-books</button>
+            <div style={{ width: "300px" }}>
+              <button className="bluebg text-white  font-bold p-5 mt-5 border rounded-full w-full">Explore Your Digital Concierge Guidebook</button>
             </div>
           </ButtonsRow>
         </div>
@@ -51,7 +55,7 @@ export default function Introduction() {
       <br /><br />
 
 
-      <div className="container whitebg border-2 shadow-2xl flex  max-[600px]:flex-col-reverse justify-center  rounded-2xl gap-10 mt-10 items-center">
+      <div className="w-11/12 m-auto whitebg border-2 shadow-2xl flex  max-[600px]:flex-col-reverse justify-center  rounded-2xl gap-10 mt-10 items-center p-3">
 
         <div className="py-10">
           <ImgWrapper className="flexCenter">
@@ -59,14 +63,15 @@ export default function Introduction() {
           </ImgWrapper>
         </div>
         <div className="py-10">
-          <h2 className="font30 extraBold gunmetal">Simple 3 steps</h2>
+          <h2 className="text-5xl extraBold gunmetal">Simple 3 steps</h2>
           <ol>
-            <li className="my-5"><strong className="font-bolder  gunmetal ">Step 1 – Register and Create E-book
-            </strong></li>
-            <li className="my-5"><strong className="font-bolder gunmetal">Step 2 – Add/ Change details about your offerings
-            </strong></li>
-            <li className="my-5"><strong className="font-bolder gunmetal">Step 3 – Publish and Share
-            </strong></li>
+            <li className="my-5 text-2xl"><strong className="font-bolder  gunmetal ">Step 1 – </strong>Register and create your guidebook
+            </li>
+            <li className="my-5 text-2xl"><strong className="font-bolder gunmetal ">Step 2 –</strong> Add/ Change details about your offerings
+            </li>
+            <li className="my-5 text-2xl"><strong className="font-bolder gunmetal ">Step 3 – </strong>Publish and Share
+            </li>
+            <li className="my-5 text-2xl"><strong>Have your digital concierge ready in under 15 mins!</strong></li>
           </ol>
           <ButtonsRow className="flexNullCenter" style={{ margin: "30px 0" }}>
             <div style={{ width: "190px" }}>
