@@ -8,6 +8,7 @@ import icon4 from '../../assets/png/4.png'
 import icon5 from '../../assets/png/5.png'
 import icon6 from '../../assets/png/6.png'
 import icon7 from '../../assets/png/7.png'
+import icon8 from '../../assets/png/8.png'
 
 
 export default function Features() {
@@ -96,6 +97,16 @@ export default function Features() {
                             <div className="flex-grow">
                                 <h2 className="bluetxt text-2xl font-bold title-font  mb-3">Dashboard </h2>
                                 <p className="leading-relaxed text-base">Easy to navigate admin dashboard
+                                </p>
+
+                            </div>
+                        </div>
+                        <div className="p-4 md:w-1/4 w-full flex flex-col text-center items-center">
+                            <div><img src={icon8} className="max-w-32  mb-3 max-h-32 opacity-80 " alt="" /></div>
+
+                            <div className="flex-grow">
+                                <h2 className="bluetxt text-2xl font-bold title-font  mb-3">Engagement Tracker </h2>
+                                <p className="leading-relaxed text-base">Track who has accessed your guidebooks
                                 </p>
 
                             </div>
